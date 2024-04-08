@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 # Corwin Yip
 
-** `Engineer (Software Developer/Engineering Physics)`**
+**`Engineer (Software Developer/Engineering Physics)`**
+<br>
+<br>
 I'm Corwin, will be completing the training at the end of April 2024. I am a software development trainee and recent graduate from the Hong Kong Polytechnic University, where I studied Engineering Physics. During my studies, I undertook some programming courses and a final-year project focused on developing a smart home system. This project raised my interest in being a software developer and allowed me to enhance my programming skills using Python. 
 
 ### 🧰 Languages and Tools
